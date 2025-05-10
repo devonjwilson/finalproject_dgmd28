@@ -43,7 +43,7 @@ function About(){
 }
 
 function My404(){
-  return <><Nav/><h1>Page not found!</h1></>
+  return <><Nav/><h1>Page not found Try returning to the Home Page.</h1></>
 }
 
 // Form where tickers can be entered, and their inforamtion will be displayed.   
