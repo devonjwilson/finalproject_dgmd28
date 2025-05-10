@@ -36,9 +36,6 @@ function Home(){
 
 function About(){
   return <><Nav/><h1>About Stock Tracker Plus</h1>
-    {/* Removed Image was working on local server but not online. */}
-    {/* <img src="./corporateimage.png" alt="Global Tetrahedron Logo"></img> */}
-    {/* <br/><br/> */}
   Stock Tracker Plus is a not for profit, for profit, organization. An entity of Global Tetrhedron, we offer a free ticker tracking service, but will harvest your information in the process and sell it to the highest bidder. ; D 
   </>
 }
