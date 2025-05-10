@@ -1,0 +1,25 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+body { 
+  display: block; 
+  place-items: normal;
+   min-width: auto; 
+   min-height: auto; }
+
+.ticker-list{
+  list-style-type:none;
+}
